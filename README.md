@@ -203,4 +203,4 @@ This repository serves as the official landing page for SquareFont. The software
 **Get the most recent version of SquareFont today!**
 
 ---
-**Last updated:** 2026-11-13 10:31:37 UTC
+**Last updated:** 2026-11-13 18:11:16 UTC
